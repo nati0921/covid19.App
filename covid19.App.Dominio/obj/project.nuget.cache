@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "23W48S2GM9T4k/BeANAIcARrmpss8380+p3iAUIQxMD8EVFsAdMJF467xUtNZjPT1vKVM9AXbgo20pxy9jij+Q==",
+  "success": true,
+  "projectFilePath": "C:\\covid19\\covid19.App\\covid19.App.Dominio\\covid19.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Natalia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Natalia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

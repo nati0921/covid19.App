@@ -1,0 +1,12 @@
+C:\covid19\covid19.App\covid19.App.Persistencia\obj\Debug\netstandard2.1\covid19.App.Persistencia.csprojAssemblyReference.cache
+C:\covid19\covid19.App\covid19.App.Persistencia\obj\Debug\netstandard2.1\covid19.App.Persistencia.AssemblyInfoInputs.cache
+C:\covid19\covid19.App\covid19.App.Persistencia\obj\Debug\netstandard2.1\covid19.App.Persistencia.AssemblyInfo.cs
+C:\covid19\covid19.App\covid19.App.Persistencia\obj\Debug\netstandard2.1\covid19.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\covid19\covid19.App\covid19.App.Persistencia\bin\Debug\netstandard2.1\covid19.App.Persistencia.deps.json
+C:\covid19\covid19.App\covid19.App.Persistencia\bin\Debug\netstandard2.1\covid19.App.Persistencia.dll
+C:\covid19\covid19.App\covid19.App.Persistencia\bin\Debug\netstandard2.1\covid19.App.Persistencia.pdb
+C:\covid19\covid19.App\covid19.App.Persistencia\bin\Debug\netstandard2.1\covid19.App.Dominio.dll
+C:\covid19\covid19.App\covid19.App.Persistencia\bin\Debug\netstandard2.1\covid19.App.Dominio.pdb
+C:\covid19\covid19.App\covid19.App.Persistencia\obj\Debug\netstandard2.1\covid19.App.Persistencia.csproj.CopyComplete
+C:\covid19\covid19.App\covid19.App.Persistencia\obj\Debug\netstandard2.1\covid19.App.Persistencia.dll
+C:\covid19\covid19.App\covid19.App.Persistencia\obj\Debug\netstandard2.1\covid19.App.Persistencia.pdb

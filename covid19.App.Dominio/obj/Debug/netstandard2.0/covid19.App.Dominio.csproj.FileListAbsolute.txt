@@ -1,0 +1,9 @@
+C:\covid19\covid19.App\covid19.App.Dominio\obj\Debug\netstandard2.0\covid19.App.Dominio.csprojAssemblyReference.cache
+C:\covid19\covid19.App\covid19.App.Dominio\obj\Debug\netstandard2.0\covid19.App.Dominio.AssemblyInfoInputs.cache
+C:\covid19\covid19.App\covid19.App.Dominio\obj\Debug\netstandard2.0\covid19.App.Dominio.AssemblyInfo.cs
+C:\covid19\covid19.App\covid19.App.Dominio\obj\Debug\netstandard2.0\covid19.App.Dominio.csproj.CoreCompileInputs.cache
+C:\covid19\covid19.App\covid19.App.Dominio\bin\Debug\netstandard2.0\covid19.App.Dominio.deps.json
+C:\covid19\covid19.App\covid19.App.Dominio\bin\Debug\netstandard2.0\covid19.App.Dominio.dll
+C:\covid19\covid19.App\covid19.App.Dominio\bin\Debug\netstandard2.0\covid19.App.Dominio.pdb
+C:\covid19\covid19.App\covid19.App.Dominio\obj\Debug\netstandard2.0\covid19.App.Dominio.dll
+C:\covid19\covid19.App\covid19.App.Dominio\obj\Debug\netstandard2.0\covid19.App.Dominio.pdb
